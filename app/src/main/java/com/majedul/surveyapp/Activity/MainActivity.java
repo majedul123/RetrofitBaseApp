@@ -1,8 +1,10 @@
-package com.majedul.surveyapp;
+package com.majedul.surveyapp.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.majedul.surveyapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
